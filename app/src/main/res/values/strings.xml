@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lowes Interview</string>
+    <string name="city_name">City Name</string>
+    <string name="lookup">Lookup</string>
+    <string name="back_button">Back Button</string>
+    <string name="temp">Temp:</string>
+</resources>
